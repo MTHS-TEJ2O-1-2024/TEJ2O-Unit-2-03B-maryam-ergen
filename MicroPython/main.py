@@ -1,10 +1,9 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
+Created by: Maryam Ergen
+Created on: Sep 2024
 This module is a Micro:bit MicroPython program
 """
 
-from microbit import *
-
+from microbit import * 
 
 display.scroll("Hello, World!")
